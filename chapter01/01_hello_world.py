@@ -1,5 +1,5 @@
 """
-Hello World I
+Hello World
 This is the first example when learning any programming language.
 Write a program that prints:
 Hello World
