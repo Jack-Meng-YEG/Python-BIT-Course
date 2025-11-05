@@ -1,4 +1,6 @@
-'''The Chinese yuan (RMB) and the US dollar (USD) are two widely used currencies.
+'''
+Prompt:
+The Chinese yuan (RMB) and the US dollar (USD) are two widely used currencies.
 Write a program to convert between these two currencies. The fixed exchange rate is:
 1 USD = 6.78 RMB
 The program should read one line of input representing an amount in either RMB or USD, and output the converted value in the other currency.
