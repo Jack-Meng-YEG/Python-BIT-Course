@@ -7,5 +7,5 @@ Hello World
 Pay attention to the exact capitalization and spacing.
 """
 
-# My first code.
+# hello_world.py
 print("Hello, world!")
