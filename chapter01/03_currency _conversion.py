@@ -1,5 +1,6 @@
 '''
-Prompt:
+Currency Conversion
+
 The Chinese yuan (RMB) and the US dollar (USD) are two widely used currencies.
 Write a program to convert between these two currencies. The fixed exchange rate is:
 1 USD = 6.78 RMB
@@ -23,3 +24,4 @@ elif TempStrin[0:3] == "USD":
     print("RMB{:.2f}".format(RMB)) 
 else:
     print()
+
