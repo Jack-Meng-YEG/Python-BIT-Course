@@ -14,7 +14,7 @@ This is an online judge problem: use input() to read the input.
 You do not need to handle or report format errors.
 '''
 
-# Currency Conversion.py
+# currency_conversion.py
 TempStrin = input()
 if TempStrin[0:3] == "RMB":
     USD = eval(TempStrin[3:])/6.78
@@ -24,4 +24,5 @@ elif TempStrin[0:3] == "USD":
     print("RMB{:.2f}".format(RMB)) 
 else:
     print()
+
 
