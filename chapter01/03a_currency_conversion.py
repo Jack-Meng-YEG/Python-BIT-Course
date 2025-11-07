@@ -15,7 +15,6 @@ You do not need to handle or report format errors.
 '''
 
 # currency_conversion.py
-
 CurStr = input()
 if CurStr[:3] in ["RMB"]:
     print("USD{:.2f}".format(eval(CurStr[3:])/6.78))
