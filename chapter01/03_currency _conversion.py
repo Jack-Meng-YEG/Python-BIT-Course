@@ -24,5 +24,3 @@ elif TempStrin[0:3] == "USD":
     print("RMB{:.2f}".format(RMB)) 
 else:
     print()
-
-
