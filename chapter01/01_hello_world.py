@@ -8,4 +8,4 @@ Pay attention to the exact capitalization and spacing.
 """
 
 # hello_world.py
-print("Hello, world!")
+print("Hello World")
