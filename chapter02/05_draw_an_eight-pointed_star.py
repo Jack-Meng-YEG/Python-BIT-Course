@@ -16,5 +16,4 @@ t.pendown()
 for i in range(8):
     t.fd(500)
     t.left(135)
-
 t.done()
