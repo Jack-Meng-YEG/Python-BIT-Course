@@ -10,6 +10,7 @@ over one year (365 days):
 """
 
 # using_the_pow()_function.py
-up=pow(1+0.001,365)
-down=pow(1-0.001,365)
-print("up:{:.2f}\ndown:{:.2f}".format(up,down))
+increase=pow(1+0.001,365)
+decrease=pow(1-0.001,365)
+
+print("increase:{:.2f}\ndecrease:{:.2f}".format(increase,decrease))
