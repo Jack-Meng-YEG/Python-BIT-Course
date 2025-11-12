@@ -12,7 +12,7 @@ asking them to check the input.
 # number_to_chinese_weekday.py
 day_number=eval(input("请输入星期数字（1-7）："))
 week_days="星期一星期二星期三星期四星期五星期六星期日"
-if 1<= day_number <=7:
+if day_number in [1,2,3,4,5,6,7]:
     print("今天是{}。".format(week_days[day_number*3-3:(day_number-1)*3+3]))
 else:
     print("请检查输入的数字，谢谢！")
